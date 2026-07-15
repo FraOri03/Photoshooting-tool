@@ -1,0 +1,6 @@
+{
+  "name": "Scene Designer",
+  "description": "An advanced, modern, high-fidelity top-down set planner for filmmaking, photography, and storyboard design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
